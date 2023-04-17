@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2023-03-29T22:54:10.953Z"
+    },
+    {
+      "id": 2,
+      "description": "Academia",
+      "type": "outcome",
+      "category": "Gym",
+      "price": 50,
+      "createdAt": "2023-03-29T22:54:10.953Z"
+    },
+    {
+      "description": "Desenvolvimento App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-04-01T21:29:07.669Z",
+      "id": 3
+    },
+    {
+      "description": "pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-01T21:47:51.131Z",
+      "id": 4
+    },
+    {
+      "description": "monitor lg ultrawide",
+      "price": 1000,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "2023-04-01T21:48:24.858Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel bença",
+      "price": 24,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-01T21:58:00.214Z",
+      "id": 6
+    }
+  ]
+}
